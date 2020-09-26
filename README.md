@@ -13,7 +13,7 @@
 
   -  `firebase login` - Con este comando nos logueamos dentro de nuestra cuenta de google)
 
-
+<img src="./images_firebase/login.PNG"/>
 
 
   -  `firebase init` - Con este comando iniciamos el proyecto en el directorio en el que estamos, se nos hara una serie de preguntas, una de las cuales es el servicio que queremos utilizar, en este caso en la selección de servicios marcaremos nada mas que Hosting
