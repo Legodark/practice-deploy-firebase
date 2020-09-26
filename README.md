@@ -1,5 +1,5 @@
-<center><img src="https://img.icons8.com/color/144/000000/firebase.png"/></center>
-<p><h1><center>Deploy  Proyect on Firebase</center></h1></p>
+<p align="center"><img src="https://img.icons8.com/color/144/000000/firebase.png"/></p>
+<h1 align="center">Deploy  Proyect on Firebase V.1.0.1</h1>
 
 ## Instrucciones
 
@@ -11,8 +11,15 @@
 
 4. Vamos a preparar el proyecto para el deploy, ejecutando los siguientes comandos:
 
-  -  `firebase login`
-  -  `firebase init`
-  -  `firebase serve --only hosting`
-5. Ahora realizamos el desploy de la aplicación usando el siguiente comando:
+  -  `firebase login` - Con este comando nos logueamos dentro de nuestra cuenta de google)
+
+
+
+
+  -  `firebase init` - Con este comando iniciamos el proyecto en el directorio en el que estamos, se nos hara una serie de preguntas, una de las cuales es el servicio que queremos utilizar, en este caso en la selección de servicios marcaremos nada mas que Hosting
+  -  `firebase serve --only hosting` - Con este comando
+
+5. Por ultimo, una vez tengamos el proyecto con los archivos que deseamos subir, realizamos el desploy de la aplicación usando el siguiente comando:
 - `firebase deploy`
+
+![](./images_firebase/login.PNG)
