@@ -15,7 +15,7 @@
 
 <p align="center"><img src="./images_firebase/login.PNG"/></p>
 
-  -  `firebase init` - Con este comando realinicializaremos la configuración del proyecto en la carpeta que tengamos nuestros archivos que queremos desplegar.
+  -  `firebase init` - Con este comando inicializaremos la configuración del proyecto en la carpeta que tengamos nuestros archivos que queremos desplegar.
 
   <p align="center"><img src="./images_firebase/select_service.PNG"/></p>
 
