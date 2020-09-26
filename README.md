@@ -39,5 +39,5 @@
 
 Aquí puedes ver como queda, en mi caso, el proyecto desplegado:
 
-<p align="center"><a href="https://weather-deploy-b2c21.web.app/">Wheather App</a></p>
+<p align="center"><a href="https://weather-deploy-b2c21.web.app/" target="_blank">Wheather App</a></p>
 
